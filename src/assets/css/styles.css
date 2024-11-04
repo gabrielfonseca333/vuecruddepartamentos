@@ -1,0 +1,83 @@
+.tarjeta{
+
+    width: 50%;
+    min-height: 4rem;
+    margin: 0 auto;
+    box-shadow: 4px 5px 20px;
+    padding: 20px;
+    border: 1px solid lightsteelblue;
+    border-radius: 16px;
+
+  }
+
+  /* FONTS */
+  .rubik-wet-paint-regular {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+  /* padre y hijo */
+  .padre{
+    border: 3px solid red; 
+    padding: 20px; 
+    color:red; 
+    border-radius: 16px
+  }
+
+  .hijo{
+    border: 1px solid blue;
+     color: blue;
+      width: 50%;
+       margin: 0 auto
+  }
+
+  /* colores  */
+
+  .verde {
+    color: yellowgreen;
+  }
+  
+  .rojo {
+    color: red;
+  }
+
+  /* fuentes de texto */
+
+  .font-pequeña{
+    font-size: 8px;
+  }
+
+  .font-mediana{
+    font-size: 16px;
+  }
+
+  .font-grande{
+    font-size: 32px;
+  }
+
+  .font-muy-grande{
+    font-size: 64px;
+  }
+
+  /* imagenes */
+
+  .img{
+    width: 250px;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 5px 1px 15px;
+  }
+
+
+  /* form container */
+  .form-container{
+    width: 50%;
+    margin: 0 auto; 
+    margin-bottom: 20px; 
+    border: 1px solid black; 
+    padding: 20px;
+    border-radius: 18px;
+  }
